@@ -119,11 +119,23 @@
 				"url": "Images/wave.jpg"
 			},
 			"start_date": {
-				"year": "2000"
+				"year": "2012"
 			},
 			"text": {
 				"headline": "The End!",
 				"text": "<p>Thank You for reading my slides about the history of Maachine Learning.<br><br> <b>BYEEEEE!!!</b></p>"
+			}
+		},
+		{
+			"media": {
+				"url": "Images/wave.jpg"
+			},
+			"start_date": {
+				"year": "2012"
+			},
+			"text": {
+				"headline": "References",
+				"text": "<p>- GeeksforGeeks. (2025a, July 1). Backpropagation in neural network. GeeksforGeeks. https://www.geeksforgeeks.org/machine-learning/backpropagation-in-neural-network<br>- GeeksforGeeks. (2025b, July 23). Hopfield Neural Network. GeeksforGeeks.<br>https://www.geeksforgeeks.org/machine-learning/hopfield-neural-network <br>- GeeksforGeeks. (2025c, July 29). Supervised and Unsupervised learning. GeeksforGeeks. https://www.geeksforgeeks.org/machine-learning/supervised-unsupervised-learning</p>"
 			}
 		}
 		
